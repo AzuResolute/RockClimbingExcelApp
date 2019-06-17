@@ -24,6 +24,6 @@ Growth Reports:
 
 ---
 
-Settings of the Application can be found in the Control Tab.
+Settings of the Application can be found in the RCLookup Tab.
 
 ![Alt text](/rcScreenShots/Control.png?raw=true "Control")
