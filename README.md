@@ -1,6 +1,8 @@
 # RockClimbingExcelApp
 
-Rock Climbing Record for The Squad
+Rock Climbing Record for The Squad.
+
+I loved making Excel applications like these, but this is my proudest work. Made in January 2018, this Excel application lit up my passion for creating applications.
 
 ## Overview
 
